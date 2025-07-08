@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-# chatbot
-=======
-# chatBot
->>>>>>> 70e405116e17f5526715d9ced35dbb3e02515725
+Developed a basic chatbot using HTML, CSS, and JavaScript that responds to a limited set of predefined input prompts such as "hello," "how are you," "what is my name," "what is your name," "what can you do," and "tell me a joke."
+
