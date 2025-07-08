@@ -6,7 +6,7 @@ function chatbot(input) {
     output = "Hello, nice to meet you!";
   } else if (input.includes("how are you")) {
     output = "I'm doing fine, thank you for asking.";
-  } else if (input.includes("what is my  name")) {
+  } else if (input.includes("what is my name")) {
     output = "Sainath Valavala ";
   } else if (input.includes("what is your name")) {
     output = "My name is College AI, I'm a chatbot.";
